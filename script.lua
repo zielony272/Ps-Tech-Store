@@ -36,47 +36,47 @@ if buttons.circle then
 text ="Tu wpisz gre, po wpisaniu nie wychodz z aplikacji. Po pobraniu wyskoczy komunikat"
 gra = osk.init("Wpisz nazwe gry z listy",text)
 if gra == GRA[1] then  
-    http.getfile("https://download1338.mediafire.com/oslkev6wx8wg/0fzvkindljoxfz5/gtasa.zip","ux0:/download/gtasa.zip");
+    http.getfile("https://www.mediafire.com/file/32cdd1zlnxmioa7/gtasa.zip/file","ux0:/download/gtasa.zip");
     os.message("Pobrano")
 end
 else if gra == GRA[2] then   
-   http.getfile("https://download1476.mediafire.com/mf84kqhgl13g/4egq6q6yzmh2hd7/gtavc.zip","ux0:/download/gtavc.zip");
+   http.getfile("https://www.mediafire.com/file/hbkghp7nioikhsg/gtavc.zip/file","ux0:/download/gtavc.zip");
     os.message("Pobrano")
 
 else if gra == GRA[3] then 
-    http.getfile("https://download1500.mediafire.com/v2e8dqimapag/2ahqw337knk5e1k/gta3.zip","ux0:/download/gta3.zip");
+    http.getfile("https://www.mediafire.com/file/pvgesr8qqfnx7ht/gta3.zip/file","ux0:/download/gta3.zip");
     os.message("Pobrano")
 
 else if gra == GRA[4] then 
-    http.getfile("https://download1501.mediafire.com/fgskdk8ykf8g/g4c3m1e6dywarad/Fallout2.zip","ux0:/download/Fallout2.zip");
+    http.getfile("https://www.mediafire.com/file/qjkvj3w2dlj32xl/Fallout2.zip/file","ux0:/download/Fallout2.zip");
     os.message("Pobrano");
 
 else if gra == GRA[5] then 
-    http.getfile("https://download1505.mediafire.com/syxrwyp5rcyg/yoex8p4xelkplui/maxpayne.zip","ux0:/download/maxpayne.zip");
+    http.getfile("https://www.mediafire.com/file/vie6mhl0iyhnix0/maxpayne.zip/file","ux0:/download/maxpayne.zip");
     os.message("Pobrano");
 
 else if gra == GRA[6] then 
-    http.getfile("https://download1480.mediafire.com/moopmvfm8vag/b1sko8c71kmyz9d/bc2.zip","ux0:/download/bc2.zip");
+    http.getfile("https://www.mediafire.com/file/ao7kcx7aci79cfy/bc2.zip/file","ux0:/download/bc2.zip");
     os.message("Pobrano");
 
 else if gra == GRA[7] then 
-    http.getfile("https://download1514.mediafire.com/5tmx817z8lcg/c3qiq42a24qd1hj/crazytaxi.zip","ux0:/download/crazxytaxi.zip");
+    http.getfile("https://www.mediafire.com/file/8dpkqfboi9c6r5n/crazytaxi.zip/file","ux0:/download/crazytaxi.zip");
     os.message("Pobrano");
 
 else if gra == GRA[8] then 
-    http.getfile("https://download856.mediafire.com/7lcsz1wqt6ug/w6u0syt26qemwnx/gtactw.zip","ux0:/download/gtactw.zip");
+    http.getfile("https://www.mediafire.com/file/qbsj9kuj4l2qve1/gtactw.zip/file","ux0:/download/gtactw.zip");
     os.message("Pobrano");
 
 else if gra == GRA[9] then 
-    http.getfile("https://download1498.mediafire.com/9vxgzemopbvg/t5xxps6bimb1k9a/Bully.zip","ux0:/download/Bully.zip");
+    http.getfile("https://www.mediafire.com/file/wmobied08c6pr56/Bully.zip/file","ux0:/download/Bully.zip");
     os.message("Pobrano");
 
 else if gra == GRA[10] then 
-    http.getfile("https://download1347.mediafire.com/hkbtu27ggteg/0stuqi5wyanblmm/twom.zip","ux0:/download/twom.zip");
+    http.getfile("https://www.mediafire.com/file/wbs9hxfss4bx5zj/twom.zip/file","ux0:/download/twom.zip");
     os.message("Pobrano");
 
 else if gra == GRA[11] then 
-    http.getfile("https://download1074.mediafire.com/u4ksqsvxawqg/qoa131zoal4i163/xash3d.zip","ux0:/download/xash3d.zip");
+    http.getfile("https://www.mediafire.com/file/zhgy0jcfztz3ed4/xash3d.zip/file","ux0:/download/xash3d.zip");
     os.message("Pobrano");
 
 end
