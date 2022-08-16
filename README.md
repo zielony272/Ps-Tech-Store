@@ -1,5 +1,5 @@
 # Ps-Tech-Store
-This app is designed for downloading games/game ports/apps etc. Dedicated for channel Playstationtech. App will be developed more in the future.
+This app is designed for downloading games/game ports/apps etc. Dedicated for youtube channel Playstationtech. App will be developed more in the future.
 For now it has a few options:
  - download option for big game ports
  - files delete  option for downloaded files. Ux0:/download/ + filename by default
