@@ -8,3 +8,5 @@ For now it has a few options:
  - autochecker if user have any website download plugin installed
 
 Made with ONE LUA
+![iScreen Shoter - 20220817185626201](https://user-images.githubusercontent.com/93880350/185198569-47ca5907-acb0-4dda-b3a8-0aacf9ed9fee.jpg)
+![iScreen Shoter - 20220817185759329](https://user-images.githubusercontent.com/93880350/185198744-9bed35aa-cd29-42e1-a18f-18151ef5303f.jpg)
